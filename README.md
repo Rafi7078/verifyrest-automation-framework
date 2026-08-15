@@ -1,5 +1,9 @@
+[![VerifyREST API Tests](https://github.com/Rafi7078/verifyrest-automation-framework/actions/workflows/api-tests.yml/badge.svg)](https://github.com/Rafi7078/verifyrest-automation-framework/actions/workflows/api-tests.yml)
+
 # VerifyREST Automation Framework
+
 A REST API automation testing framework built with Postman, JavaScript, Newman, Node.js, and npm.
+
 ## Overview
 VerifyREST automates an end-to-end booking workflow against the public Restful-Booker API.
 The framework validates HTTP status codes, JSON responses, booking data, authentication, CRUD operations, dynamic variables, deletion behavior, and API response times.
@@ -70,3 +74,7 @@ Restful-Booker
 - CI report artifacts
 ## Author
 API QA Automation portfolio project.
+
+
+
+
